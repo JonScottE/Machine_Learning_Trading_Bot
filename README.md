@@ -1,6 +1,6 @@
-# Machine Learning Trading Bot - Optional
+# Machine Learning Trading Bot
 
-![Decorative image.](Images/15-challenge-image.png)
+
 
 Now, it's time to take what you've learned about machine learning and apply it to new situations. For this optional assignment, you'll create an algorithmic trading bot that learns and adapts to new data and evolving markets. Be sure to give it your all -- as the skills you hone will become powerful tools in your FinTech tool belt.
 
